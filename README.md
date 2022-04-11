@@ -3,8 +3,6 @@
 <!--
 **Zo1oft/Zo1oft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zo1oft)](https://github.com/anuraghazra/github-readme-stats)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Zo1oft github stats](https://github-readme-stats.vercel.app/api?username=Zo1oft&show_icons=true&theme=radical)
