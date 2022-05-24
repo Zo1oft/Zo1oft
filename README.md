@@ -1,6 +1,6 @@
 ### Hi there 👋
 Junior QA Engineer
-Graduate of https://qa.guru - QA Automation school, https://github.com/qa-guru
+Graduate of https://qa.guru - QA Automation school
 
 ### My projects so far:
 + [UI Testing with PageObjects](https://github.com/Zo1oft/UI_PAgeObjects_Tests)
