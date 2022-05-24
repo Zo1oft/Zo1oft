@@ -28,6 +28,3 @@ Graduate of https://qa.guru - QA Automation school, https://github.com/qa-guru
 
 ### My GitHub stats
 ![Zo1oft github stats](https://github-readme-stats.vercel.app/api?username=Zo1oft&show_icons=true&theme=radical)
-
-### Contacts
-[![Telegram](images/logo/Telegram.png)](https://t.me/Zoloft) [![Email](images/logo//Gmail_Icon.png)](mailto:tryzoloft@gmail.com)
