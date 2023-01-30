@@ -1,5 +1,5 @@
 ### Hi there 👋
-Junior QA Engineer
+QA Engineer
 Graduate of https://qa.guru - QA Automation school
 
 ### My key projects so far:
