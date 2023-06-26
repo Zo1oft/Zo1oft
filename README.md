@@ -25,6 +25,3 @@ Graduate of https://qa.guru - QA Automation school
  <img width="5%" title="Browserstack" src="images/logo/browserstack-icon.svg">
 <img width="8%" title="Appium" src="images/logo/appium.png">
 </p>
-
-### My GitHub stats
-![Zo1oft github stats](https://github-readme-stats.vercel.app/api?username=Zo1oft&show_icons=true&theme=radical)
